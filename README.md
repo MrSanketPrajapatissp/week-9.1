@@ -1,6 +1,6 @@
 # Code: 
 
-'''python
+```
 import { use } from "react";
 import "./App.css";
 import React, { useState } from "react";
@@ -44,4 +44,4 @@ function MyComponent() {
 
 export default App;
 
-'''
+```
